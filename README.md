@@ -1,5 +1,7 @@
 <img width="1881" height="836" alt="Banner" src="https://github.com/user-attachments/assets/5f571f9b-dcfe-4013-bcfc-74522766b7d8" />
-# 👋 Hola, soy Heidy Marllory
+
+---
+## 👋 Hola, soy Heidy Marllory
 
 🎓 Soy estudiante de **ADSO (Análisis y Desarrollo de Software)** en el SENA  
 💻 Apasionada por el desarrollo web y la tecnología  
